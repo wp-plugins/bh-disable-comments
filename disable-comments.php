@@ -273,7 +273,7 @@ jQuery(document).ready(function($){
 		static $plugin;
 		$plugin = plugin_basename( __FILE__ );
 		if ( $file == $plugin ) {
-			$links[] = '<a href="https://github.com/solarissmoke/disable-comments">GitHub</a>';
+			$links[] = '';
 		}
 		return $links;
 	}

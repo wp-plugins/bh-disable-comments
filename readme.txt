@@ -1,6 +1,6 @@
 === Disable Comments ===
 Contributors: Birds Host
-Donate link: http://birdshost.com/wp/disable-comments/
+Donate link: http://plugins.birdshost.com/disable-comments/
 Tags: comments, disable, global
 Requires at least: 3.6
 Tested up to: 4.1
